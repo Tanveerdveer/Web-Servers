@@ -61,7 +61,5 @@ curl -l localhost:80
 
 **To check the default url enter it into your browser’s address bar**
 
-**http\://localhost:80**![](https://lh7-us.googleusercontent.com/docsz/AD_4nXf84dvmNPv19nsFx10FXsUb07uOgzt2TNpFU-qcoVwyhCjOs4DCG8d_AiFX98M_v3cuQOoNq1e8ZNVDK-kSevQDTH_RoXqENadyxOVKlsRCokZA5TpLGg92pmv4-fFcpxv8xjjLUiMnPWgt2mTySS-TuXPJ?key=DvDc7us21QKZqg3Pu5lL6A)****
-
-********
+http\://localhost:80![](https://lh7-us.googleusercontent.com/docsz/AD_4nXf84dvmNPv19nsFx10FXsUb07uOgzt2TNpFU-qcoVwyhCjOs4DCG8d_AiFX98M_v3cuQOoNq1e8ZNVDK-kSevQDTH_RoXqENadyxOVKlsRCokZA5TpLGg92pmv4-fFcpxv8xjjLUiMnPWgt2mTySS-TuXPJ?key=DvDc7us21QKZqg3Pu5lL6A)
 
